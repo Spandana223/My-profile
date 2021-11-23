@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="600px" height="600px" viewBox="0 0 600 600" enable-background="new 0 0 600 600" xml:space="preserve">
+<g>
+	<g>
+		<ellipse fill="#DC6400" cx="81.472" cy="241.601" rx="75.992" ry="87.375"/>
+		<ellipse fill="#FFBB3F" cx="81.472" cy="241.601" rx="54.612" ry="75.797"/>
+		<ellipse fill="#DC6400" cx="522.795" cy="241.601" rx="75.993" ry="87.375"/>
+		<ellipse fill="#FFBB3F" cx="522.796" cy="241.601" rx="54.611" ry="75.797"/>
+		<ellipse fill="#DC6400" cx="302.786" cy="227.047" rx="164.793" ry="105.332"/>
+		<ellipse fill="#DC6400" cx="302.786" cy="346.598" rx="214.112" ry="127.481"/>
+		<circle fill="#FFBB3F" cx="239.773" cy="227.047" r="63.013"/>
+		<ellipse fill="#FFBB3F" cx="302.787" cy="346.6" rx="158.294" ry="116.577"/>
+		<path fill="#FFBB3F" d="M425.622,227.047c0-33.92-27.498-61.417-61.416-61.417c-33.924,0-61.418,27.497-61.418,61.417
+			s27.494,61.418,61.418,61.418C398.124,288.465,425.622,260.967,425.622,227.047z"/>
+	</g>
+	<ellipse fill="#FFFFFF" cx="232.784" cy="234.265" rx="31.443" ry="48.94"/>
+	<ellipse cx="239.772" cy="249.608" rx="19.588" ry="30.488"/>
+	<ellipse fill="#FFFFFF" cx="248.535" cy="249.609" rx="8.763" ry="13.639"/>
+	<ellipse fill="#FFFFFF" cx="365.753" cy="235.97" rx="31.443" ry="48.939"/>
+	<ellipse transform="matrix(1 0.0088 -0.0088 1 2.204 -3.1324)" cx="358.08" cy="249.609" rx="19.588" ry="30.487"/>
+	<ellipse fill="#FFFFFF" cx="350.256" cy="250.242" rx="8.763" ry="13.639"/>
+	<path fill="#DC6400" d="M415.317,403.462c0,8.871-50.023,32.988-112.529,32.988c-62.51,0-113.835-24.117-113.835-32.988
+		s50.673,8.854,113.183,8.854C364.642,412.315,415.317,394.591,415.317,403.462z"/>
+	<path fill="#DC6400" d="M350.255,328.979c0,8.869-20.576-4.053-47.467-4.053c-26.893,0-49.918,12.922-49.918,4.053
+		c0-8.871,23.025-24.486,49.918-24.486C329.679,304.492,350.255,320.107,350.255,328.979z"/>
+</g>
+</svg>
